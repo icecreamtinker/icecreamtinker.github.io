@@ -1,2 +1,4 @@
 title: icecreamtinker
 theme: jekyll-theme-minimal
+
+include: - .well-known
